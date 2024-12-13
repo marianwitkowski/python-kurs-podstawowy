@@ -9,7 +9,7 @@
 
 ## Proponowany harmonogram
 
-### Blok 1: Wprowadzenie i przygotowanie środowiska
+### Blok 1: <a href="01-wprowadzenie.md">Wprowadzenie i przygotowanie środowiska<a/>
 **Tematy:**
 - Czym jest Python? Krótki rys historyczny i zastosowania  
 - Instalacja Pythona (np. z python.org)  
@@ -21,7 +21,7 @@
 - Utworzenie nowego projektu w PyCharm  
 - Napisanie i uruchomienie prostego programu typu "Hello World"
 
-### Blok 2: Podstawy języka Python – składnia i typy danych
+### Blok 2: <a href="02-podstawy.md">Podstawy języka Python – składnia i typy danych</a>
 **Tematy:**
 - Zmienne i typy danych (int, float, str, bool)  
 - Konwersje typów  
@@ -32,7 +32,7 @@
 - Proste skrypty wykonujące obliczenia  
 - Formatowanie wyświetlanych informacji
 
-### Blok 3: Instrukcje warunkowe i pętle
+### Blok 3: <a href="03-instrukcje.md">Instrukcje warunkowe i pętle</a>
 **Tematy:**
 - Instrukcja `if`, `elif`, `else`  
 - Pętle `for` i `while`  
@@ -42,7 +42,7 @@
 - Program do zgadywania liczby  
 - Iteracja po elementach listy i sumowanie wartości
 
-### Blok 4: Struktury danych w Pythonie
+### Blok 4: <a href="04-struktury.md">Struktury danych w Pythonie</a>
 **Tematy:**
 - Listy, krotki, słowniki, zbiory (sets)  
 - Operacje na kolekcjach: dodawanie, usuwanie, sortowanie, filtrowanie  
@@ -52,7 +52,7 @@
 - Tworzenie prostego rejestru (np. książki adresowej)  
 - Filtrowanie i sortowanie danych w kolekcjach
 
-### Blok 5: Funkcje i modularność
+### Blok 5: <a href="05-funkcje.md">Funkcje i modularność</a>
 **Tematy:**
 - Definiowanie funkcji (`def`) i zwracanie wartości (`return`)  
 - Przekazywanie argumentów, argumenty domyślne, argumenty nazwane  
@@ -63,7 +63,7 @@
 - Pisanie funkcji ułatwiających ponowne wykorzystanie kodu  
 - Strukturyzacja projektu w mniejsze moduły
 
-### Blok 6: Praca z plikami i wprowadzenie do debugowania
+### Blok 6: <a href="06-pliki.md">Praca z plikami i wprowadzenie do debugowania</a>
 **Tematy:**
 - Odczyt i zapis plików tekstowych  
 - Podstawy obsługi błędów (try-except)  
@@ -73,7 +73,7 @@
 - Skrypt do analizy prostych danych z pliku tekstowego  
 - Stawianie breakpointów i sprawdzanie wartości zmiennych w czasie debugowania
 
-### Blok 7: Programowanie obiektowe (OOP)
+### Blok 7: <a href="07-oop.md">Programowanie obiektowe (OOP)</a>
 **Tematy:**
 - Klasy i obiekty w Pythonie  
 - Konstruktory (`__init__`), atrybuty i metody  
@@ -84,7 +84,7 @@
 - Implementacja klasy reprezentującej np. konto bankowe lub produkt w sklepie internetowym  
 - Prosty system zarządzania obiektami (np. lista produktów)
 
-### Blok 8: Obsługa wyjątków i testowanie
+### Blok 8: <a href="08-wyjatki-testy.md">Obsługa wyjątków i testowanie</a>
 **Tematy:**
 - Rzucanie i obsługa wyjątków (`raise`, `except`)  
 - Tworzenie własnych wyjątków  
@@ -95,7 +95,7 @@
 - Obsługa błędów w skryptach do przetwarzania danych  
 - Pisanie prostych testów jednostkowych w PyCharm
 
-### Blok 9: Standardowa biblioteka i wybrane biblioteki zewnętrzne
+### Blok 9: <a href="09-stdlib.md">Standardowa biblioteka i wybrane biblioteki zewnętrzne</a>
 **Tematy:**
 - Przegląd standardowej biblioteki Pythona: `os`, `math`, `datetime`  
 - Pobieranie danych z sieci – `requests` (jeśli czas pozwoli)  
@@ -106,7 +106,7 @@
 - Skrypt pobierający dane z publicznego API (np. dane pogodowe)  
 - Prosty parser danych
 
-### Blok 10: Podstawy programowania funkcyjnego i wyrażenia lambda
+### Blok 10: <a href="10-prog-funkcyjne.md">Podstawy programowania funkcyjnego i wyrażenia lambda</a>
 **Tematy:**
 - Funkcje anonimowe (lambda)  
 - Funkcje wbudowane: `map`, `filter`, `reduce` (z `functools`)  
@@ -117,7 +117,7 @@
 - Przetwarzanie list i słowników z wykorzystaniem wyrażeń lambda, map i filter  
 - Skrócenie kodu w stosunku do tradycyjnych pętli
 
-### Blok 11: Projekt końcowy
+### Blok 11: <a href="11-projekt.md">Projekt końcowy</a>
 **Tematy:**
 - Zaprojektowanie i realizacja prostego projektu integrującego zdobyte umiejętności  
 - Przykładowy temat: prosty skrypt do scraping’u danych z wybranej strony (dane dostępne w formie API lub RSS), zapis do pliku i analiza  
@@ -127,7 +127,7 @@
 - Praca w grupach lub indywidualnie nad projektem  
 - Wykorzystanie Git (opcjonalnie) do wersjonowania kodu
 
-### Blok 12: Podsumowanie i dalsze kroki
+### Blok 12: <a href="12-podsumowanie.md">Podsumowanie i dalsze kroki</a>
 **Tematy:**
 - Omówienie projektów i feedback od prowadzącego  
 - Przegląd najlepszych praktyk w Pythonie (PEP8, czystość kodu)  
