@@ -1437,6 +1437,7 @@ if __name__ == "__main__":
 
 **tests/test_weather_utils.py:**
 
+
 ```python
 # tests/test_weather_utils.py
 
@@ -1497,6 +1498,7 @@ class TestWeatherUtils(unittest.TestCase):
 if __name__ == '__main__':
     unittest.main()
 ```
+
 
 ##### 7.6.4. Dokumentacja projektu
 
