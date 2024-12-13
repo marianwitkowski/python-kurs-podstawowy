@@ -1,5 +1,6 @@
 # Python - kurs dla początkujących
 
+<img src="https://cdn.worldvectorlogo.com/logos/python-3.svg" width="600" />
 
 ## Wymagane Umiejętności dla Uczestników Kursu Programowania
 
