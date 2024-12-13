@@ -99,6 +99,9 @@ Główny obszar roboczy PyCharm składa się z kilku kluczowych elementów:
 **Podświetlanie składni i podpowiedzi kodu:**  
 W miarę pisania kodu PyCharm automatycznie podpowiada nazwy funkcji, zmiennych i klas, a także sprawdza składnię pod kątem błędów i ostrzeżeń. Linie z błędami lub ostrzeżeniami są zwykle podkreślane, a po najechaniu kursorem na taką linię otrzymasz wskazówki, jak naprawić problem.
 
+
+<img src="img/pycharm-ide.jpeg" />
+
 ---
 
 ### 5. Struktura typowego projektu Pythonowego
