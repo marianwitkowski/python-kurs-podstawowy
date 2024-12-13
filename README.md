@@ -1,3 +1,41 @@
+# Python - kurs dla początkujących
+
+
+## Wymagane Umiejętności dla Uczestników Kursu Programowania
+
+Przystępując do kursu programowania, szczególnie zorientowanego na język Python lub inne popularne technologie informatyczne, warto posiadać pewien zestaw umiejętności i podstawową wiedzę z zakresu informatyki. Poniżej przedstawione są kluczowe kompetencje, które ułatwią Ci naukę i pozwolą w pełni wykorzystać oferowane materiały oraz zadania praktyczne.
+
+### 1. **Podstawowa Znajomość Obsługi Komputera**
+
+- **System Operacyjny:** Komfortowe poruszanie się po wybranym systemie operacyjnym (Windows, macOS, Linux) jest niezbędne. Powinieneś umieć zarządzać plikami i folderami, instalować oprogramowanie oraz korzystać z podstawowych narzędzi systemowych.
+  
+- **Nawigacja w Systemie Plików:** Umiejętność tworzenia, kopiowania, przenoszenia i usuwania plików oraz folderów. Znajomość struktury katalogów ułatwi organizację projektów programistycznych.
+
+- **Instalacja Oprogramowania:** Wiedza na temat instalacji edytorów kodu (np. Visual Studio Code, PyCharm), środowisk programistycznych oraz niezbędnych bibliotek i pakietów.
+
+### 2. **Podstawowe Umiejętności Matematyczne i Logiczne**
+
+- **Matematyka:** Znajomość podstawowych działań matematycznych (dodawanie, odejmowanie, mnożenie, dzielenie) oraz zrozumienie pojęć takich jak zmienne, funkcje i podstawowe operacje logiczne.
+  
+- **Myślenie Logiczne:** Zdolność do analizy problemów, rozbijania ich na mniejsze części oraz tworzenia kroków do ich rozwiązania. Programowanie wymaga logicznego podejścia do tworzenia algorytmów i rozwiązywania problemów.
+
+### 3. **Podstawowa Orientacja w Informatyce**
+
+- **Zrozumienie Pojęć Informatycznych:** Znajomość podstawowych terminów i koncepcji z zakresu informatyki, takich jak algorytmy, struktury danych, kompilatory, interpretery itp., choć nie jest to absolutnie konieczne, pomoże w lepszym zrozumieniu materiałów kursowych.
+
+- **Algorytmy i Struktury Danych (Podstawy):** Podstawowa wiedza na temat algorytmów sortowania, wyszukiwania oraz prostych struktur danych (listy, słowniki, stosy, kolejki) może być pomocna, ale wiele z tych zagadnień jest omawianych w trakcie kursu.
+
+### 4. **Podstawowa Znajomość Angielskiego (Bardzo Pomocna)**
+
+- **Terminologia Techniczna:** Większość dokumentacji, zasobów edukacyjnych oraz komunikacji w społeczności programistycznej odbywa się w języku angielskim. Znajomość podstawowych terminów technicznych ułatwi zrozumienie materiałów kursowych i zadawanie pytań.
+
+### 5. **Podstawowa Znajomość Narzędzi Programistycznych (Nieobowiązkowe, ale Zalecane)**
+
+- **Edytory Kodów:** Znajomość podstawowych funkcji edytorów kodów takich jak Visual Studio Code, PyCharm czy Sublime Text może przyspieszyć proces nauki. Jednak większość kursów wprowadza uczestników do wybranego edytora.
+
+- **Terminal/Command Line:** Podstawowa umiejętność korzystania z terminala (cmd, PowerShell, Bash) może być pomocna, zwłaszcza podczas instalacji pakietów i zarządzania środowiskiem wirtualnym.
+
+
 
 ## Cele kursu
 - Poznanie podstawowej składni i semantyki języka Python  
