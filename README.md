@@ -175,3 +175,8 @@ Przystępując do kursu programowania, szczególnie zorientowanego na język Pyt
 ---
 
 Ten program kursu umożliwi uczestnikom stopniowe poznanie Pythona, od zupełnych podstaw po umiejętności wystarczające do samodzielnego realizowania prostych projektów. Wykorzystanie PyCharm Community Edition jako środowiska programistycznego ułatwi poznanie profesjonalnych narzędzi do pisania, uruchamiania i debugowania kodu, co przygotuje do dalszej nauki i rozwijania umiejętności w świecie Pythona.
+
+----
+
+© 2024 Marian Witkowski
+
