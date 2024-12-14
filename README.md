@@ -2,6 +2,8 @@
 
 <img src="https://cdn.worldvectorlogo.com/logos/python-3.svg" width="600" />
 
+### **Jeśli jesteś kompletnie nowy w temacie programowania i informatyki, zachęcam do zapoznania się z innym moim dokumentem <a href="https://github.com/marianwitkowski/droga-programisty" target="_blank">"Droga programisty"</a>, w którym opisuję o co chodzi w tej przygodzie i z jakimi wyzwaniami trzeba się tu zmierzyć.**
+
 ## Wymagane Umiejętności dla Uczestników Kursu Programowania
 
 Przystępując do kursu programowania, szczególnie zorientowanego na język Python lub inne popularne technologie informatyczne, warto posiadać pewien zestaw umiejętności i podstawową wiedzę z zakresu informatyki. Poniżej przedstawione są kluczowe kompetencje, które ułatwią Ci naukę i pozwolą w pełni wykorzystać oferowane materiały oraz zadania praktyczne.
@@ -24,7 +26,7 @@ Przystępując do kursu programowania, szczególnie zorientowanego na język Pyt
 
 - **Zrozumienie Pojęć Informatycznych:** Znajomość podstawowych terminów i koncepcji z zakresu informatyki, takich jak algorytmy, struktury danych, kompilatory, interpretery itp., choć nie jest to absolutnie konieczne, pomoże w lepszym zrozumieniu materiałów kursowych.
 
-- **Algorytmy i Struktury Danych (Podstawy):** Podstawowa wiedza na temat algorytmów sortowania, wyszukiwania oraz prostych struktur danych (listy, słowniki, stosy, kolejki) może być pomocna, ale wiele z tych zagadnień jest omawianych w trakcie kursu.
+- **Algorytmy i Struktury Danych (Podstawy):** Podstawowa wiedza na temat algorytmów sortowania, wyszukiwania oraz prostych struktur danych (listy, słowniki, stosy, kolejki) może być pomocna, ale wiele z tych zagadnień jest omawianych w trakcie kursu. **Polecam zapoznanie się z książką N.Wirth'a <a target='_blank' href='https://www.google.com/search?client=firefox-b-d&q=wirth+algorytmy+%2B+struktury+danych'>"Algorytmy i struktury danych"</a>.**
 
 ### 4. **Podstawowa Znajomość Angielskiego (Bardzo Pomocna)**
 
