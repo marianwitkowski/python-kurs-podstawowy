@@ -26,7 +26,7 @@ Przystępując do kursu programowania, szczególnie zorientowanego na język Pyt
 
 - **Zrozumienie Pojęć Informatycznych:** Znajomość podstawowych terminów i koncepcji z zakresu informatyki, takich jak algorytmy, struktury danych, kompilatory, interpretery itp., choć nie jest to absolutnie konieczne, pomoże w lepszym zrozumieniu materiałów kursowych.
 
-- **Algorytmy i Struktury Danych (Podstawy):** Podstawowa wiedza na temat algorytmów sortowania, wyszukiwania oraz prostych struktur danych (listy, słowniki, stosy, kolejki) może być pomocna, ale wiele z tych zagadnień jest omawianych w trakcie kursu. **Polecam zapoznanie się z książką N.Wirth'a <a target='_blank' href='https://www.google.com/search?client=firefox-b-d&q=wirth+algorytmy+%2B+struktury+danych'>"Algorytmy i struktury danych"</a>.**
+- **Algorytmy i Struktury Danych (Podstawy):** Podstawowa wiedza na temat algorytmów sortowania, wyszukiwania oraz prostych struktur danych (listy, słowniki, stosy, kolejki) może być pomocna, ale wiele z tych zagadnień jest omawianych w trakcie kursu. **Polecam zapoznanie się z książką N.Wirth'a <a target='new_window' href='https://www.google.com/search?client=firefox-b-d&q=wirth+algorytmy+%2B+struktury+danych'>"Algorytmy i struktury danych"</a>.**
 
 ### 4. **Podstawowa Znajomość Angielskiego (Bardzo Pomocna)**
 
