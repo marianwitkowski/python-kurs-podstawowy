@@ -48,7 +48,7 @@ Przystępując do kursu programowania, szczególnie zorientowanego na język Pyt
 - Zapoznanie się z podstawowymi bibliotekami standardowymi i narzędziami do testowania  
 - Zdobycie umiejętności tworzenia prostych projektów od zera
 
-## Proponowany harmonogram
+## Agenda
 
 ### Blok 1: <a href="01-wprowadzenie.md">Wprowadzenie i przygotowanie środowiska<a/>
 **Tematy:**
